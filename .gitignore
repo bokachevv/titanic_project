@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+catboost_info/
+best_model.pth
+submission.csv
+data/raw/*.csv
+data/processed/*.csv
