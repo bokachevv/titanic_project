@@ -59,8 +59,8 @@ titanic_project/
 
 | Модель | CV Accuracy | Public LB (Kaggle) |
 | :--- | :---: | :---: |
-| Logistic Regression | `0.XXXX` | — |
-| Random Forest | `0.XXXX` | — |
-| CatBoost | `0.XXXX` | — |
-| PyTorch MLP | `0.XXXX` | — |
-| Voting Ensemble | `0.XXXX` | `0.XXXX` |
+| Logistic Regression | `0.8305` | — |
+| Random Forest | `0.8361` | — |
+| CatBoost | `0.8485` | `0.7847` |
+| PyTorch MLP | `0.8339` | — |
+| Voting Ensemble | `0.8440` | `0.XXXX` |

@@ -8,7 +8,7 @@ validation:
   n_splits: 5
   random_state: 42
 
-active_model: "neural_network"
+active_model: "logistic_regression"
 
 models:
   logistic_regression:
